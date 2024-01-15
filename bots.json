@@ -1,0 +1,26 @@
+[
+    {
+        "name": "PrivBot",
+        "api_key": "",
+        "preaprove_msg": "Send number, bot3",
+        "button_msg": "Button bot3",
+        "aprove_msg": "Number get, bot3",
+        "enable": "True"
+    },
+    {
+        "name": "Снова бот2",
+        "api_key": "",
+        "preaprove_msg": "Send number, bot2",
+        "button_msg": "Тест Бота №2",
+        "aprove_msg": "!!!!",
+        "enable": "True"
+    },
+    {
+        "name": "LastTry",
+        "api_key": "",
+        "preaprove_msg": "Отдавай номер!",
+        "button_msg": "Отправить номер",
+        "aprove_msg": "Отлично!",
+        "enable": "True"
+    }
+]
